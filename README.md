@@ -67,7 +67,7 @@ Crie um arquivo config.json com sua API key:
 ---
 
 ## 🧾Histórico de Versões:
-Veja CHANGELOG.md para detalhes sobre cada versão.
+Veja Releases para detalhes sobre cada [versão](https://github.com/mourathiago/FastScanX/releases).
 
 ---
 ## 🧑‍💻 Autor
