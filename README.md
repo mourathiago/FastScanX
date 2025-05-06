@@ -68,3 +68,9 @@ Crie um arquivo config.json com sua API key:
 
 ## 🧾Histórico de Versões:
 Veja CHANGELOG.md para detalhes sobre cada versão.
+
+---
+## 🧑‍💻 Autor
+Thiago Moura.
+
+FastScanX é um projeto pessoal criado para aprendizado e contribuição com a comunidade.
